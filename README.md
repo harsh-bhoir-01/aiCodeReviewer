@@ -25,7 +25,7 @@ AI Code Review is a web application that analyzes and reviews code using **Ollam
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/harsh-bhoir-01/aiCodeReviewer.git
-cd aicodereview
+cd aiCodeReviewer
 ```
 
 
