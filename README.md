@@ -5,7 +5,6 @@ AI Code Review is a web application that analyzes and reviews code using **Ollam
 ## 🚀 Features  
 - **Code Review using AI**: Get insights and suggestions for your code.  
 - **Live Code Editor**: Powered by **CodeMirror** with JavaScript syntax highlighting.  
-- **Dark Mode Support**: Uses **One Dark theme** for a better coding experience.  
 - **Markdown Preview**: Displays AI-generated reviews in markdown format.  
 - **Fast & Scalable Backend**: Built with **Express.js** and handles API requests.  
 - **CORS Support**: Allows cross-origin requests for frontend-backend communication.  
