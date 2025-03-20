@@ -21,20 +21,20 @@ Additional Tools: LangChain, Markdown Preview.
 📦 Installation
 
 1️⃣ Clone the Repository.
--git clone https://github.com/yourusername/aicodereview.git
--cd aicodereview
+*git clone https://github.com/yourusername/aicodereview.git
+*cd aicodereview
 
 2️⃣ Install Dependencies.
--npm install
+*npm install
 
 3️⃣ Install and Setup Ollama.
--Install Ollama on Your Local Machine
--Download Ollama from their official website and install it on your system.
--Install CodeLlama Model
--ollama pull codellama:7b
+*Install Ollama on Your Local Machine
+*Download Ollama from their official website and install it on your system.
+*Install CodeLlama Model
+*ollama pull codellama:7b
 
 4️⃣ Start the Backend (Express + Ollama).
--node backend/server.js
+*node backend/server.js
 
 5️⃣ Start the Frontend.
--npm run dev
+*npm run dev
