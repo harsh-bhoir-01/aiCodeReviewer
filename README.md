@@ -13,28 +13,28 @@ CORS Support: Allows cross-origin requests for frontend-backend communication.
 
 🛠️ Tech Stack
 
-Frontend: React.js, Vite, Tailwind CSS, CodeMirror
-Backend: Express.js, Ollama LLM
-AI Model: CodeLlama:7B (via Ollama)
-Additional Tools: LangChain, Markdown Preview
+Frontend: React.js, Vite, Tailwind CSS, CodeMirror.
+Backend: Express.js, Ollama LLM.
+AI Model: CodeLlama:7B (via Ollama).
+Additional Tools: LangChain, Markdown Preview.
 
 📦 Installation
 
-1️⃣ Clone the Repository
-git clone https://github.com/yourusername/aicodereview.git
-cd aicodereview
+1️⃣ Clone the Repository.
+-git clone https://github.com/yourusername/aicodereview.git
+-cd aicodereview
 
-2️⃣ Install Dependencies
-npm install
+2️⃣ Install Dependencies.
+-npm install
 
-3️⃣ Install and Setup Ollama
-Install Ollama on Your Local Machine
-Download Ollama from their official website and install it on your system.
-Install CodeLlama Model
-ollama pull codellama:7b
+3️⃣ Install and Setup Ollama.
+-Install Ollama on Your Local Machine
+-Download Ollama from their official website and install it on your system.
+-Install CodeLlama Model
+-ollama pull codellama:7b
 
-4️⃣ Start the Backend (Express + Ollama)
-node backend/server.js
+4️⃣ Start the Backend (Express + Ollama).
+-node backend/server.js
 
-5️⃣ Start the Frontend
-npm run dev
+5️⃣ Start the Frontend.
+-npm run dev
